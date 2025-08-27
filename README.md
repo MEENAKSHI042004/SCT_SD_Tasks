@@ -7,6 +7,6 @@ A CLI program to convert temperatures between **Celsius**, **Fahrenheit**, and *
 Accepts units as **C/F/K** or full names (case-insensitive).
 
 ## How to Run (locally)
-python temperature_converter.py
+python temp_converter.py
 How to Run (online if Python isn't set up)
 Use any online Python compiler (e.g., Replit / Programiz), paste the file contents, and run.
