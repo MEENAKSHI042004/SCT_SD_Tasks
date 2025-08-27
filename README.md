@@ -10,3 +10,20 @@ Accepts units as **C/F/K** or full names (case-insensitive).
 python temp_converter.py
 How to Run (online if Python isn't set up)
 Use any online Python compiler (e.g., Replit / Programiz), paste the file contents, and run.
+
+
+
+## Task 2: Number Guessing Game (Python)
+
+### Description
+A CLI-based game where the program generates a random number between 1 and 100, and the user has to guess it.  
+After each guess, the program gives feedback:
+- "Too low!" if the guess is smaller.  
+- "Too high!" if the guess is larger.  
+- The game continues until the user guesses correctly, showing the number of attempts.
+
+### How to Run (locally)
+1. Clone this repository (if not already).
+
+   git clone https://github.com/MEENAKSHI042004/SCT_SD_Tasks.git
+
