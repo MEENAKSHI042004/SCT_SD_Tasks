@@ -41,3 +41,25 @@ The program takes an input grid with missing values (represented as `0`) and fil
 **How to Run**:  
 python task3_sudoku_solver.py
 
+Task 04: Web Scraping & CSV Export
+
+Description:
+A Python program that scrapes product data (name, price, rating, reviews, and product link) from an e-commerce website.
+The extracted data is then stored in a CSV file (task4_products.csv) for analysis.
+
+Technologies Used:
+
+Python
+
+Requests (fetch webpage data)
+
+BeautifulSoup (HTML parsing)
+
+Pandas (data storage and CSV export)
+
+How to Run:
+
+python task4_web_scraper.py
+
+
+✅ Task 4 Completed Successfully
