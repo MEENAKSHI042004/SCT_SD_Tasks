@@ -27,3 +27,17 @@ After each guess, the program gives feedback:
 
    git clone https://github.com/MEENAKSHI042004/SCT_SD_Tasks.git
 
+
+## Task 03: Sudoku Solver
+
+**Description**:  
+A Python program that solves Sudoku puzzles automatically using the **Backtracking Algorithm**.  
+The program takes an input grid with missing values (represented as `0`) and fills in the grid following Sudoku rules.
+
+**Technologies Used**:  
+- Python  
+- Backtracking Algorithm  
+
+**How to Run**:  
+python task3_sudoku_solver.py
+
